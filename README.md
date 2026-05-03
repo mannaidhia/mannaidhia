@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhia Mannai
 
-🎓 Cybersecurity Engineering Student @ ESPRIT
+🎓 Cybersecurity Engineering Student @ ESPRIT        
 📍 Tunis, Tunisia  
 📧 mannai.dhia.1@gmail.com
 
