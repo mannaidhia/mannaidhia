@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhia Mannai
 
-🎓 Cybersecurity Engineering Student @ ESPRIT (Expected 2027)  
+🎓 Cybersecurity Engineering Student @ ESPRIT
 📍 Tunis, Tunisia  
 📧 mannai.dhia.1@gmail.com
 
@@ -42,7 +42,3 @@ and harden infrastructure end-to-end.
 - 🥈 Cisco Network Security 1.0 — **90/100** (Jan 2026)
 
 ---
-
-## 📊 GitHub Stats
-
-![Dhia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannaidhia&show_icons=true&theme=dark)
