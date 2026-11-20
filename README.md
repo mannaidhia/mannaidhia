@@ -234,7 +234,7 @@ Hint: Hex Decode
 
 # 📫 Contact
 
-- LinkedIn: [linkedin.com/in/dhia-mannai](https://www.linkedin.com/in/dhia-mannai)
+- LinkedIn: [linkedin.com/in/dhia-mannai](https://www.linkedin.com/in/dhia-mannai-b7252425b/)
 - Email: mannai.dhia.1@gmail.com
 
 ---
